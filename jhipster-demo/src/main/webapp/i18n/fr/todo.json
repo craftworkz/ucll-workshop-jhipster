@@ -1,0 +1,22 @@
+{
+    "ucllApp": {
+        "todo" : {
+            "home": {
+                "title": "Todos",
+                "createLabel": "Créer un nouveau Todo",
+                "createOrEditLabel": "Créer ou éditer un Todo"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Todo {{ id }} ?"
+            },
+            "detail": {
+                "title": "Todo"
+            },
+            "title": "Title",
+            "description": "Description",
+            "status": "Status",
+            "user": "User"
+        }
+    }
+}
+

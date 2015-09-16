@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "ucll",
+    "packageName": "be.craftworkz.ucll",
+    "packageFolder": "be/craftworkz/ucll",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "1911cf305074f24edb0af0ddfb726e9a18241005"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "ucllApp": {
+        "TodoStatus" : {
+            "SELECT": "{VALUE, select, todo{todo} inprogress{inprogress} done{done} other{}}",
+            "todo": "todo",
+            "inprogress": "inprogress",
+            "done": "done"
+        }
+    }
+}
