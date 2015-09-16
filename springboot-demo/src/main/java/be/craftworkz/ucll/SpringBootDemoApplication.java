@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootUcllDemoApplication {
+public class SpringBootDemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootUcllDemoApplication.class, args);
+        SpringApplication.run(SpringBootDemoApplication.class, args);
     }
 }
